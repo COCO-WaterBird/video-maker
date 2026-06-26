@@ -1,0 +1,5 @@
+file '/var/folders/zj/qg5wsktj2hx43sww1lt6szbm0000gn/T/tmpbxl4g04v/slide_0000.mp4'
+file '/var/folders/zj/qg5wsktj2hx43sww1lt6szbm0000gn/T/tmpbxl4g04v/slide_0001.mp4'
+file '/var/folders/zj/qg5wsktj2hx43sww1lt6szbm0000gn/T/tmpbxl4g04v/slide_0002.mp4'
+file '/var/folders/zj/qg5wsktj2hx43sww1lt6szbm0000gn/T/tmpbxl4g04v/slide_0003.mp4'
+file '/var/folders/zj/qg5wsktj2hx43sww1lt6szbm0000gn/T/tmpbxl4g04v/slide_0004.mp4'
